@@ -1,1 +1,1 @@
-Download the pretrained weights from [Google Drive](https://drive.google.com/drive/u/0/folders/1-4XLgT6yda7tODN2zOebZ-VS2XzdH9O4), and keep them in this folder.
+Download the pretrained weights from [Google Drive](https://drive.google.com/drive/folders/1-4XLgT6yda7tODN2zOebZ-VS2XzdH9O4?usp=sharing), and keep them in this folder.

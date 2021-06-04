@@ -7,7 +7,7 @@ My implementation of Photorealistic landscape drawings using the Nvidia SPADE mo
 ```bash
 pip install -r requirements
 ```
-2) Download pretrained checkpoints from [here](https://drive.google.com/drive/u/0/folders/1-4XLgT6yda7tODN2zOebZ-VS2XzdH9O4) and extract them in pretrained folder.
+2) Download pretrained checkpoints from [here](https://drive.google.com/drive/folders/1-4XLgT6yda7tODN2zOebZ-VS2XzdH9O4?usp=sharing) and extract them in pretrained folder.
 
 3) Set FLASK_APP enviroment variable, and run flask.
 - Unix Bash:
